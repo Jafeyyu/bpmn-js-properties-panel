@@ -1,6 +1,6 @@
 {
   "_from": "git+https://github.com/shidalin/bpmn-js-properties-panel.git",
-  "_id": "shid021-bjpp@1.0.0",
+  "_id": "bpmn-js-properties-panel-activiti@1.0.0",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/bpmn-js-properties-panel",
@@ -38,7 +38,7 @@
     "selection-update": "^0.1.2"
   },
   "deprecated": false,
-  "description": "shid021-bjpp",
+  "description": "bpmn-js-properties-panel-activiti",
   "devDependencies": {
     "activiti-bpmn-moddle": "https://github.com/igdianov/activiti-bpmn-moddle/archive/v1.0.5.tar.gz",
     "bpmn-js": "^3.1.0",
@@ -73,7 +73,7 @@
     "properties-panel"
   ],
   "license": "MIT",
-  "name": "shid021-bjpp",
+  "name": "bpmn-js-properties-panel-activiti",
   "peerDependencies": {
     "bpmn-js": "^1.x || ^2.x || ^3.x"
   },
